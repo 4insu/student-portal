@@ -1,4 +1,4 @@
-#include <iostream>
+#define VERSION "1.0-A"
 
 int main() {
    cout << "Student Portal\n"
