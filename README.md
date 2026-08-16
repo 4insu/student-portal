@@ -21,6 +21,11 @@ The app runs on https://localhost:3000 by default.
 - /docs - additional documentation
 ## Contributing
 Please open a feature branch and submit a pull request for review.
+<<<<<<< HEAD
 ## Login Module
 
 Handles user login and sessions.
+## Profile Module
+
+Handles user profile info and avatars.
+feature/profile
