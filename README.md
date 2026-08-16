@@ -23,6 +23,7 @@ The app runs on https://localhost:3000 by default.
 Please open a feature branch and submit a pull request for review.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Login Module
 
 Handles user login and sessions.
@@ -34,3 +35,7 @@ feature/profile
 
 Shows courses and notifications.
 feature/dashboard
+## Settings Module
+
+Handles theme and password preferences.
+feature/settings
